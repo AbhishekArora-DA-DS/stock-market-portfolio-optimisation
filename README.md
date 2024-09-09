@@ -19,7 +19,7 @@ In the realm of investing, constructing a well-diversified portfolio is crucial 
 To explore the project, follow these steps:
 
 1. Clone the Repository: Download the project files from GitHub. <br>
-    ```git clone [https://github.com/yourusername/portfolio-optimization.git](https://github.com/AbhishekArora-DA-DS/stock-market-portfolio-optimisation.git)```
+    ```git clone https://github.com/AbhishekArora-DA-DS/stock-market-portfolio-optimisation.git```
 
 2. Install Dependencies: Ensure you have the required libraries installed. You can do this using pip: <br>
     ```pip install yfinance pandas matplotlib seaborn numpy```
